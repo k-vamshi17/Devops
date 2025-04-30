@@ -4,7 +4,7 @@
 # Date: 28th-Apr
 # Version: v1
 
-# This Script will report the AWS Resource Usage
+# This Script will report the AWS Resource Usage.
 
 set -x
 
